@@ -21,6 +21,7 @@ page {
 			hallo = TEXT
 			hallo.value = HALLO WELT!
 			content < styles.content.get
+            left < styles.content.getLeft
 		}
 	}
 	
